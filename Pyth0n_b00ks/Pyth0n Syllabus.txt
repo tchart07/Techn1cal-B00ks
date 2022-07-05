@@ -1,0 +1,130 @@
+Core Python Syllabus                                                                                •Duration 15 Days 
+•Daily 2 hours 
+•Daily Assignments
+•150+ programming & output questions
+•Interview Questions for placements
+
+ 
+Chapter 1:  Introduction to Python 
+ What is Python and history of Python? 
+ Unique features of Python 
+ Python-2 and Python-3 differences 
+ Install Python and Environment Setup 
+ First Python Program 
+ Python Identifiers, Keywords and Indentation 
+ Comments and document interlude in Python 
+ Command line arguments 
+ Getting User Input 
+ Python Data Types 
+ What are variables? 
+ Python Core objects and Functions 
+ Number and Maths 
+Chapter 2: Control Statements 
+ if-else 
+ if-elif-else 
+ while loop 
+ for loop 
+ break 
+ continue 
+ assert 
+ pass 
+ return 
+ 
+Chapter 3: List, Ranges & Tuples in Python 
+ Introduction 
+ Lists in Python 
+ More about Lists 
+ Understanding Iterators 
+ Generators, Comprehensions and Lambda Expressions 
+o Introduction 
+o Generators and Yield 
+o Next and Ranges 
+ Understanding and using Ranges 
+ More About Ranges 
+ Ordered Sets with tuples
+Chapter 4: Python Dictionaries and Sets 
+ Introduction to the section 
+ Python Dictionaries 
+ More on Dictionaries 
+ Sets 
+ Python Sets Examples 
+Chapter 5: Input and Output in Python 
+ Reading and writing text files 
+ writing Text Files 
+ Appending to Files and Challenge 
+ Writing Binary Files Manually 
+ Using Pickle to Write Binary Files 
+ 
+Chapter 6: Python built in function 
+ Python user defined functions 
+ Python packages functions 
+ Defining and calling Function 
+ The anonymous Functions  
+ Loops and statement in Python 
+ Python Modules & Packages
+Chapter 7: Python Object Oriented 
+ Overview of OOP 
+ The self variable 
+ Constructor 
+ Types Of Variables 
+ Namespaces 
+ Creating Classes and Objects 
+ Inheritance 
+ Types of Methods 
+o Instance Methods 
+o Static Methods 
+o Class Methods 
+ Accessing attributes 
+ Built-In Class Attributes 
+ Destroying Objects 
+ Abstract classes and Interfaces 
+ Abstract Methods and Abstract class 
+ Interface in Python 
+ Abstract classes and Interfaces
+Chapter 8: Exceptions 
+ Errors in Python 
+ Compile-Time Errors 
+ Runtime Errors 
+ Logical Errors 
+ What is Exception? 
+ Handling an exception 
+ try….except…else  
+ try-finally clause 
+ Argument of an Exception 
+ Python Standard Exceptions 
+ Raising an exceptions 
+ User-Defined Exceptions  
+ 
+Chapter 9: Python Regular Expressions 
+ What are regular expressions? 
+ The match Function 
+ The search Function 
+ Matching vs searching 
+ Search and Replace 
+ Extended Regular Expressions 
+ Wildcard
+Chapter 10: Python Multithreaded Programming 
+ What is multithreading? 
+ Difference between a Process and Thread 
+ Concurrent Programming and GIL 
+ Uses  of  Thread 
+ Starting a New Thread 
+ The Threading Module 
+ Thread Synchronization 
+o Locks 
+o Semaphore 
+ Deadlock of Threads 
+ Avoiding Deadlocks 
+ Daemon Threads 
+  
+Chapter 11: Using Databases in Python 
+ Python MySQL Database Access 
+ Install the MySQLdb and other Packages 
+ Create Database Connection 
+ CREATE, INSERT, READ Operation 
+ DML and DDL Oepration with Databases
+
+Chapter 12: Graphical User Interface 
+ Basic concepts of GUI in Python 
+ Projects 1) Text Editor 2) Corona Virus App
+ 

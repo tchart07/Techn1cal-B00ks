@@ -1,0 +1,16 @@
+Introduction to Python Scripting - Basic introduction
+
+1)Introduction to Python Development
+
+2)Certified Entry-Level Python Programmer CertificationAdvanced 
+3)Certified Associate in Python Programming Certification (PCAP 31-03)
+4)Perspective of Classes and Object-Oriented Programming in Python
+
+
+
+
+While preparing the Data science
+=================================
+Using Python's Math, Science, and Engineering Libraries
+Data Preparation (Import and Cleaning) for Python
+File Processing and Environment Communication with Python
